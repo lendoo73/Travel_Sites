@@ -1,4 +1,4 @@
-# [Travel_Sites](https://www.codecademy.com/courses/learn-flask/projects/flask-accounts-authentication)
+# [Travel Sites](https://www.codecademy.com/courses/learn-flask/projects/flask-accounts-authentication)
 
 Travel is one of the great pleasures of life.
 
